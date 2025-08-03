@@ -1,10 +1,10 @@
 Anand Sarda's Data Science Project Portfolio
 Projects
-1. Tesla Supercharing Stations Prediction
+1. [Link](https://github.com/anandsarda/Data-Science/tree/main/Portfolio/Project1) Tesla Supercharing Stations Prediction
 Of all the various brands in the current market, Tesla is clearly the market leader not just because of the brand value and design but mostly because of the reliable Tesla supercharging stations. The public charging stations had their share of problems as they sometimes don’t work which is quite frustrating to the EV car owners. One of the key features for prospective EV car buyers is charging stations. I will be exploring more on this aspect where it might be useful for upcoming EV buyers to make purchase based on the charging stations and their possible expansion pattern/prediction. The focus of this model is limited to USA.
 
 2. Air Travel Safety
-Travelling in airplane is making your life at risk. Air travel is risky compared to other modes of transportation. Likewise, there has been a lot of chatter in the media regarding the airline crashes and fatalities occurred in recent times. With several incidents in recent times, you might get an impression that these days, you are taking your life at stake by travelling in airplane instead of other modes of transportation like automobiles. Should you really worry to travel in airplane? Let’s look at the data before drawing a conclusion.
+[Link](url)Travelling in airplane is making your life at risk. Air travel is risky compared to other modes of transportation. Likewise, there has been a lot of chatter in the media regarding the airline crashes and fatalities occurred in recent times. With several incidents in recent times, you might get an impression that these days, you are taking your life at stake by travelling in airplane instead of other modes of transportation like automobiles. Should you really worry to travel in airplane? Let’s look at the data before drawing a conclusion.
 
 3. Movie Recommender System
 Using the small MovieLens data set, create a recommender system that allows users to input a movie they like (in the data set) and recommends ten other movies for them to watch. In your write-up, clearly explain the recommender system process and all steps performed. If you are using a method found online, be sure to reference the source. You can use R or Python to complete this assignment. Submit your code and output to the submission link. Make sure to add comments to all of your code and to document your steps, process, and analysis.
